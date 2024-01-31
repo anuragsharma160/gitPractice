@@ -11,3 +11,5 @@ TrialFunction - Trial Function added.
 UniversalFunction - Universal Function added.
 
 PseudoFunction - Pseudo Function added.
+
+FakeFunction - Fake Function added.
