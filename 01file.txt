@@ -9,3 +9,5 @@ NewerFunction - Newer Function added.
 TrialFunction - Trial Function added.
 
 UniversalFunction - Universal Function added.
+
+PseudoFunction - Pseudo Function added.
