@@ -13,3 +13,5 @@ UniversalFunction - Universal Function added.
 PseudoFunction - Pseudo Function added.
 
 FakeFunction - Fake Function added.
+
+RealFunction - Real Function added.
