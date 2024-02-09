@@ -35,3 +35,6 @@ One day everything will be fine.
 Plant protein is more powerful than animal protein.
 
 Vegan diet is the most powerful diet.
+
+
+added a chart function in our branch
