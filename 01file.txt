@@ -1,4 +1,4 @@
-OneFunction - This is one ok function.
+OneFunction - This is my first function.
 TwoFunction - This is my second function.
 ThreeFunction - This is my third function.
 
@@ -40,4 +40,3 @@ Vegan diet is the most powerful diet.
 added a chart function in our branch
 
 
-adding a new function to login user via X method
