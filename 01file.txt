@@ -39,4 +39,4 @@ Vegan diet is the most powerful diet.
 
 added a chart function in our branch
 
-added a code for doing logout
+
